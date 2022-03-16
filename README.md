@@ -14,7 +14,7 @@
 
  **How to use:**
 
- * You can follow this blog link which will guide you through every step by step [ETL-pipeline-blog](https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/network)
+ * You can follow this blog link which will guide you through every step by step [ETL-pipeline-blog](https://medium.com/@mohamedkashifuddin_47092/data-engineering-etl-batch-processing-pipeline-part-1-9c6c188a1372)
 
 
  **How to Contribute**
