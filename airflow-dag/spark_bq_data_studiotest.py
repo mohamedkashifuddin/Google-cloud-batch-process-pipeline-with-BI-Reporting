@@ -29,7 +29,7 @@ DEFAULT_DAG_ARGS = {
     "email_on_retry":False,
     "retries": 1,
     "retry_delay":timedelta(minutes=5),
-    "project_id": "smart-paratext-336819",
+    "project_id": "<PROJECT_ID>",
     "scheduled_interval":"0 22 * * *"
 }
 
