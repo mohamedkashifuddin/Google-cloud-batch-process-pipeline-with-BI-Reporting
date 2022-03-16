@@ -30,7 +30,7 @@ DEFAULT_DAG_ARGS = {
     "retries": 1,
     "retry_delay":timedelta(minutes=5),
     "project_id": "smart-paratext-336819",
-    "scheduled_interval":"30 2 * * *"
+    "scheduled_interval":"0 22 * * *"
 }
 
 with DAG("car_purchase_etl",default_args=DEFAULT_DAG_ARGS) as dag : 
